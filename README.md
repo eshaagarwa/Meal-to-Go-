@@ -30,6 +30,7 @@ Find how the project looks in <b>screenshots folder</b> Or <a href="https://gith
 <li>Start XAMMP. Start Apache and SQL server. Go to phpmyadmin and create a new database named 'food'</li>
 <li>Go to the food database created and click on 'Import' option in the top menu</li>
 <li>Upload the food.sql file and import it</li>
+<li> then easily you can go through our website and run it dynamically it</li>
 <li>Open your web browser and check if you got the website running on your localhost (http://localhost:8080/www/)</li>
 </ol>
 
