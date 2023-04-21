@@ -5,7 +5,7 @@ Admin Login & Password (You can change this in phpmyadmin):<br/>
 Login: admin <br>
 Password: admin<br>
 
-# Screenshots
+# images
 <img src="https://github.com/esha995/Meal-to-Go-/blob/main/images/admin_page.png">
 
 
