@@ -6,7 +6,7 @@ Login: admin <br>
 Password: admin<br>
 
 # Screenshots
-<img src="https://github.com/kaushikjadhav01/Online-Food-Ordering-Web-App/blob/master/screenshots/99-banner.png">
+<img src="https://github.com/esha995/Meal-to-Go-/blob/main/images/admin_page.png">
 
 
 # Technologies Used
